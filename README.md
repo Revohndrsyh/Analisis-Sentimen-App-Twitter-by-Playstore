@@ -77,7 +77,3 @@ Hasil utama dari notebook ini adalah model machine learning siap pakai untuk kla
 ## Lisensi
 
 Proyek ini hanya untuk keperluan pembelajaran dan riset.
-
----
-
-> _README ini dihasilkan otomatis berdasarkan struktur dan kode yang ada pada notebook Pelatihan_model.ipynb. Silakan lengkapi jika ada kebutuhan atau catatan tambahan._
